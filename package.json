@@ -1,0 +1,20 @@
+{
+  "name": "vue-sodesign",
+  "version": "1.0.0",
+  "description": "SoDesign.AI - Industrial Design Intelligent Creation Engine",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite preview --port 3000"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "vite": "^4.4.9"
+  }
+}
